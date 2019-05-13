@@ -1,0 +1,10 @@
+To run the project, NODE must be installed
+Follow these instructions to run project
+
+on the project root directory run the command "npm install"
+to install all dependencies
+
+Then, run the command "npm run serve"
+to start the development server
+
+click the link provided most likely: " http://localhost:8080/" to run the project
